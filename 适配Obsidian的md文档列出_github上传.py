@@ -46,11 +46,3 @@ for Single_mdFile in mdFile:
         OutputFile.write('\n')
 
 OutputFile.close()
-
-
-
-'''
-os.path.splitext()
-os.path.splitext(文件名)
-函数用途：将文件名和扩展名分开。
-'''
